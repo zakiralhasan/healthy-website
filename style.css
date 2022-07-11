@@ -2,6 +2,8 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+p{font-size: larger;}
+
 #section-one{
     display: flex;
 }
@@ -47,4 +49,34 @@ h1{
 #second-section-div2 p{ 
     padding-right: 35%;
     line-height: 200%;
+}
+
+#third-section-div1{
+    text-align: center;
+    margin: 5%;
+    
+}
+#third-section-div2{
+    display: flex;
+    margin: 5%;
+}
+.shadow-box{
+    margin: 15px;
+    padding: 2%;
+    border-radius: 25px;
+    box-shadow: 1px 1px 10px rgb(200, 199, 199);
+}
+.shadow-box img{width: 100%;}
+.shadow-box p{line-height: 200%;}
+#third-section-div3{
+    display: flex;
+    margin: 5.5%;
+    padding: 2%;
+    border-radius: 25px;
+    box-shadow: 1px 1px 10px rgb(194, 194, 194);
+
+}
+.third-section-div3-child-div{
+    margin: 0 11% 0 12%;
+    
 }
