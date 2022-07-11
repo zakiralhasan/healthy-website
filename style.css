@@ -12,7 +12,7 @@ p{font-size: larger;}
     margin: 20px;
 }
 .half-width img{
-    width: 80%;
+    width: 70%;
 }
 .orange-color{
     color: orange;
@@ -23,7 +23,7 @@ h1{
 .button{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(#f1b7b2, #e61704);
+    background-image: linear-gradient(orange, #e61704);
     margin: 10px;
     padding: 13px 25px;
     border-radius: 15px;
@@ -74,9 +74,18 @@ h1{
     padding: 2%;
     border-radius: 25px;
     box-shadow: 1px 1px 10px rgb(194, 194, 194);
+}
+.third-section-div3-child-div{margin: 0 11% 0 12%;}
 
+footer{
+    background-color: black;
+    color: rgb(194, 194, 194);
+    padding: 2%;
+    padding-bottom: 8%;
+    text-align: center;
 }
-.third-section-div3-child-div{
-    margin: 0 11% 0 12%;
-    
+.gray-color{
+    color: gray;
+    margin-left: 1%;
 }
+
