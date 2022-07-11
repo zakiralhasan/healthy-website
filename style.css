@@ -1,3 +1,34 @@
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
+#section-one{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 20px;
+}
+.half-width img{
+    width: 80%;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#f1b7b2, #e61704);
+    margin: 10px;
+    padding: 13px 25px;
+    border-radius: 15px;
+}
+#soction-one-div1{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+
